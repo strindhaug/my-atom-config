@@ -1,0 +1,23 @@
+"*":
+  core:
+    autoHideMenuBar: true
+    telemetryConsent: "limited"
+    themes: [
+      "atom-light-ui"
+      "atom-light-syntax"
+    ]
+  "exception-reporting":
+    userId: "e6ae5f84-4b60-4c5c-bc47-69b08d7aa649"
+  "linter-ui-default":
+    panelHeight: 131
+  minimap:
+    plugins:
+      "minimap-autohide": true
+      "minimap-autohideDecorationsZIndex": 0
+  "theme-switcher":
+    syntaxThemeOne: "atom-desert-syntax"
+    syntaxThemeTwo: "atom-light-syntax"
+    uiThemeOne: "atom-dark-ui"
+    uiThemeTwo: "atom-light-ui"
+  welcome:
+    showOnStartup: false

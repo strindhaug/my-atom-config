@@ -1,0 +1,11 @@
+blob-store
+compile-cache
+dev
+storage
+.node-gyp
+.npm
+.apm/
+packages/
+recovery/
+.atom-socket-secret-stein-1.36.1
+nohup.out
