@@ -3,8 +3,8 @@
     autoHideMenuBar: true
     telemetryConsent: "limited"
     themes: [
-      "atom-light-ui"
-      "atom-light-syntax"
+      "atom-dark-ui"
+      "atom-desert-syntax"
     ]
   "exception-reporting":
     userId: "e6ae5f84-4b60-4c5c-bc47-69b08d7aa649"
